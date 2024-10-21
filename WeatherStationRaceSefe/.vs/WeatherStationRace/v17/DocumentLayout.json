@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A961D024-9E0E-4A9A-BE76-15391D291C81}|WeatherStationRace\\WeatherStationRace.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\weatherstationrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A961D024-9E0E-4A9A-BE76-15391D291C81}|WeatherStationRace\\WeatherStationRace.csproj|solutionrelative:weatherstationrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A961D024-9E0E-4A9A-BE76-15391D291C81}|WeatherStationRace\\WeatherStationRace.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\weatherstationrace\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A961D024-9E0E-4A9A-BE76-15391D291C81}|WeatherStationRace\\WeatherStationRace.csproj|solutionrelative:weatherstationrace\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9947D002-3822-465F-B1C9-79D5B8C78DF7}|WeatherStationRace.Client\\WeatherStationRace.Client.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\weatherstationrace.client\\services\\meteoweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9947D002-3822-465F-B1C9-79D5B8C78DF7}|WeatherStationRace.Client\\WeatherStationRace.Client.csproj|solutionrelative:weatherstationrace.client\\services\\meteoweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9947D002-3822-465F-B1C9-79D5B8C78DF7}|WeatherStationRace.Client\\WeatherStationRace.Client.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\weatherstationrace.client\\meteoweatherforecastclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9947D002-3822-465F-B1C9-79D5B8C78DF7}|WeatherStationRace.Client\\WeatherStationRace.Client.csproj|solutionrelative:weatherstationrace.client\\meteoweatherforecastclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\shared\\models\\meteoweather\\meteoforecastdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|solutionrelative:shared\\models\\meteoweather\\meteoforecastdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\shared\\core\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|solutionrelative:shared\\core\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\shared\\core\\meteoweatherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|solutionrelative:shared\\core\\meteoweatherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\shared\\aotjsonserializer\\jsonserializercontextregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|solutionrelative:shared\\aotjsonserializer\\jsonserializercontextregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\shared\\aotjsonserializer\\meteoweather\\meteoforecastjsonserializercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|solutionrelative:shared\\aotjsonserializer\\meteoweather\\meteoforecastjsonserializercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A961D024-9E0E-4A9A-BE76-15391D291C81}|WeatherStationRace\\WeatherStationRace.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\weatherstationrace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A961D024-9E0E-4A9A-BE76-15391D291C81}|WeatherStationRace\\WeatherStationRace.csproj|solutionrelative:weatherstationrace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A961D024-9E0E-4A9A-BE76-15391D291C81}|WeatherStationRace\\WeatherStationRace.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\weatherstationrace\\weatherstationrace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A961D024-9E0E-4A9A-BE76-15391D291C81}|WeatherStationRace\\WeatherStationRace.csproj|solutionrelative:weatherstationrace\\weatherstationrace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|c:\\users\\wil chu\\source\\repos\\weatherstationracesefe\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA9BA912-9DC0-4DEF-BD43-4A270B5E3413}|Shared\\Shared.csproj|solutionrelative:shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherStationRace\\appsettings.json",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace\\appsettings.json",
+              "RelativeToolTip": "WeatherStationRace\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T03:47:34.919Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherStationRace\\Program.cs",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace\\Program.cs",
+              "RelativeToolTip": "WeatherStationRace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:21:23.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeteoWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace.Client\\Services\\MeteoWeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherStationRace.Client\\Services\\MeteoWeatherService.cs",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace.Client\\Services\\MeteoWeatherService.cs",
+              "RelativeToolTip": "WeatherStationRace.Client\\Services\\MeteoWeatherService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwEMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:56:01.776Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace\\Worker.cs",
+              "RelativeDocumentMoniker": "WeatherStationRace\\Worker.cs",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace\\Worker.cs",
+              "RelativeToolTip": "WeatherStationRace\\Worker.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:32:51.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeteoWeatherForecastClient.cs",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace.Client\\MeteoWeatherForecastClient.cs",
+              "RelativeDocumentMoniker": "WeatherStationRace.Client\\MeteoWeatherForecastClient.cs",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace.Client\\MeteoWeatherForecastClient.cs",
+              "RelativeToolTip": "WeatherStationRace.Client\\MeteoWeatherForecastClient.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwEsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:45:42.086Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherStation.cs",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\Core\\WeatherStation.cs",
+              "RelativeDocumentMoniker": "Shared\\Core\\WeatherStation.cs",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\Core\\WeatherStation.cs",
+              "RelativeToolTip": "Shared\\Core\\WeatherStation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:46:39.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeteoWeatherConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\Core\\MeteoWeatherConfiguration.cs",
+              "RelativeDocumentMoniker": "Shared\\Core\\MeteoWeatherConfiguration.cs",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\Core\\MeteoWeatherConfiguration.cs",
+              "RelativeToolTip": "Shared\\Core\\MeteoWeatherConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:43:37.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MeteoForecastJsonSerializerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\AotJsonSerializer\\MeteoWeather\\MeteoForecastJsonSerializerContext.cs",
+              "RelativeDocumentMoniker": "Shared\\AotJsonSerializer\\MeteoWeather\\MeteoForecastJsonSerializerContext.cs",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\AotJsonSerializer\\MeteoWeather\\MeteoForecastJsonSerializerContext.cs",
+              "RelativeToolTip": "Shared\\AotJsonSerializer\\MeteoWeather\\MeteoForecastJsonSerializerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:35:50.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherStationRace.csproj",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace\\WeatherStationRace.csproj",
+              "RelativeDocumentMoniker": "WeatherStationRace\\WeatherStationRace.csproj",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace\\WeatherStationRace.csproj",
+              "RelativeToolTip": "WeatherStationRace\\WeatherStationRace.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T21:42:51.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeteoForecastDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\Models\\MeteoWeather\\MeteoForecastDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\MeteoWeather\\MeteoForecastDto.cs",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\Models\\MeteoWeather\\MeteoForecastDto.cs",
+              "RelativeToolTip": "Shared\\Models\\MeteoWeather\\MeteoForecastDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:45:34.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonSerializerContextRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\AotJsonSerializer\\JsonSerializerContextRegistry.cs",
+              "RelativeDocumentMoniker": "Shared\\AotJsonSerializer\\JsonSerializerContextRegistry.cs",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\AotJsonSerializer\\JsonSerializerContextRegistry.cs",
+              "RelativeToolTip": "Shared\\AotJsonSerializer\\JsonSerializerContextRegistry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:37:36.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\Shared\\Shared.csproj",
+              "RelativeToolTip": "Shared\\Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T03:41:21.686Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

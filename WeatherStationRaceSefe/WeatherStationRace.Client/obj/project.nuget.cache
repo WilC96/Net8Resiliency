@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6CkfatCdrBM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wil Chu\\source\\repos\\WeatherStationRaceSefe\\WeatherStationRace.Client\\WeatherStationRace.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wil Chu\\.nuget\\packages\\serilog\\4.0.2\\serilog.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
